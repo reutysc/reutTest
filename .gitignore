@@ -37,3 +37,4 @@ out-tsc/
 # npm/yarn lock files 
 # package-lock.json
 # yarn.lock
+.vs/Reuty_Test/DesignTimeBuild/.dtbcache.v2
