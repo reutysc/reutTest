@@ -27,8 +27,8 @@
 
 1. **שכפול הריפוזיטורי**:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/reutysc/reutTest.git
+cd reutTest
 ```
 
 2. **שחזור חבילות**:
@@ -51,7 +51,7 @@ dotnet run
 ## 🖥️ הרצת צד לקוח (Frontend)
 
 1. **פתחו את האפליקציה ב-StackBlitz**:  
-👉 [לחצו כאן להרצת האפליקציה](https://stackblitz.com/edit/your-client-link-here)
+👉 [לחצו כאן להרצת האפליקציה](https://stackblitz.com/edit/angular-reactive-forms-todo-app-bqfcn7na)
 
 2. **האפליקציה תרוץ אוטומטית**, עם האפשרויות:
    - יצירת משימה חדשה

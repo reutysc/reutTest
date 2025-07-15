@@ -1,0 +1,39 @@
+
+# ===== .NET build artifacts =====
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Backup & temp files
+*.tmp
+*.bak
+*.swp
+*.DS_Store
+Thumbs.db
+
+# ========== Angular ==========
+
+# Node modules
+node_modules/
+
+# Build output
+dist/
+out-tsc/
+
+# Angular environments
+/src/environments/environment*.ts
+
+# IDEs
+.idea/
+.vscode/
+
+# npm/yarn lock files 
+# package-lock.json
+# yarn.lock
