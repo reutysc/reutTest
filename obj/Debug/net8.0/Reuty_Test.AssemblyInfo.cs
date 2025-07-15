@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Reuty_Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9f88c9a59269d4c315440e35936989b58c20db9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Reuty_Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Reuty_Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Reut\\Desktop\\project\\Reuty_Test\\Reuty_Test\\Reuty_Test.csproj",
+      "projectUniqueName": "C:\\Users\\Reut\\Desktop\\project\\Reuty_Test\\reutTest\\Reuty_Test.csproj",
       "projectName": "Reuty_Test",
-      "projectPath": "C:\\Users\\Reut\\Desktop\\project\\Reuty_Test\\Reuty_Test\\Reuty_Test.csproj",
+      "projectPath": "C:\\Users\\Reut\\Desktop\\project\\Reuty_Test\\reutTest\\Reuty_Test.csproj",
       "packagesPath": "C:\\Users\\Reut\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Reut\\Desktop\\project\\Reuty_Test\\Reuty_Test\\obj\\",
+      "outputPath": "C:\\Users\\Reut\\Desktop\\project\\Reuty_Test\\reutTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
